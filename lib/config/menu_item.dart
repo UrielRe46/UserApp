@@ -15,9 +15,5 @@ const menuItems = [
   MenuItem(
       title: 'Crear Perfil',
       link: '/create',
-      icon: Icons.create_outlined),
-  MenuItem(
-      title: 'Detalle Perfil',
-      link: '/profile',
-      icon: Icons.person),
+      icon: Icons.create_outlined)
 ];
